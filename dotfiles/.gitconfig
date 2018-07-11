@@ -1,0 +1,7 @@
+[user]
+	email = 0x67726e@gmail.com
+	name = Glenn Nelson
+[core]
+	editor = vim
+[pull]
+	rebase = true
