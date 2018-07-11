@@ -9,6 +9,8 @@ syntax on
 
 " Set tab width to 4 spaces
 set tabstop=4
+" Set shift-indent width to 4 spaces (really, 1 tab)
+set shiftwidth=4
 " Enable auto-indent
 set autoindent
 " Enable smart-indent
